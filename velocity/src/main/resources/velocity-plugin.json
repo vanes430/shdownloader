@@ -1,0 +1,10 @@
+{
+  "id": "shdownloader",
+  "name": "shdownloader",
+  "version": "1.0.0-SNAPSHOT",
+  "description": "Simple file downloader",
+  "authors": [
+    "vanes430"
+  ],
+  "main": "me.vanes430.shdownloader.velocity.ShDownloaderVelocity"
+}
